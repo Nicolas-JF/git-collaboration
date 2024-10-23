@@ -1,4 +1,5 @@
 granny smith
-red apple
-yellow apple
-green apple
+red delicious
+golden delicious
+fuji
+gala
